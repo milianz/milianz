@@ -45,12 +45,18 @@ Me encanta aprender nuevas tecnologías, optimizar sistemas y crear experiencias
 
 <div align="center">
   
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=milianz&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milianz&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+<a href="https://github.com/milianz">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=milianz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/milianz">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milianz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=milianz&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+<a href="https://github.com/milianz">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milianz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</a>
 
 </div>
 
