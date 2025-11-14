@@ -11,14 +11,14 @@
 
 ## 🧑‍🚀 About Me
 
-Soy un desarrollador apasionado por crear software elegante, útil y bien diseñado. Actualmente estudio **Ingeniería Informática** y trabajo en proyectos relacionados con:
+I'm a passionate developer focused on creating elegant, useful, and well-designed software. Currently studying **Computer Engineering** and working on projects related to:
 
-- 💻 **Backend development** con Java y Spring Boot
-- ⚙️ **Sistemas** y lógica computacional
-- 🎨 **Frontend moderno** usando Astro, React y Tailwind
-- 📊 **Analítica**, automatización y herramientas de productividad
+- 💻 **Backend development** with Java and Spring Boot
+- ⚙️ **Systems** and computational logic
+- 🎨 **Modern frontend** using Astro, React, and Tailwind
+- 📊 **Analytics**, automation, and productivity tools
 
-Me encanta aprender nuevas tecnologías, optimizar sistemas y crear experiencias digitales fluidas.
+I love learning new technologies, optimizing systems, and creating seamless digital experiences.
 
 ---
 
@@ -64,11 +64,11 @@ Me encanta aprender nuevas tecnologías, optimizar sistemas y crear experiencias
 
 ## 🧩 Featured Skills
 
-- 🧱 Diseño de arquitectura y patrones de software  
-- 🛡️ Sistemas robustos, seguros y escalables  
-- ⚡ Optimización de rendimiento  
-- 🎯 UX sencilla y funcional  
-- 🧪 Testing, debugging y profiling  
+- 🧱 Software architecture design and patterns  
+- 🛡️ Robust, secure, and scalable systems  
+- ⚡ Performance optimization  
+- 🎯 Simple and functional UX  
+- 🧪 Testing, debugging, and profiling  
 
 ---
 
