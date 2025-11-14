@@ -11,7 +11,7 @@
 - 🎓 Currently studying Computer Science  
 - 🔧 Working on personal projects involving **Java**, **Spring Boot**, **C++** and more  
 - 🌱 Always learning new technologies  
-- 🧪 Interested in backend, game dev, and system design  
+- 🧪 Interested in backend and system design  
 
 ---
 
